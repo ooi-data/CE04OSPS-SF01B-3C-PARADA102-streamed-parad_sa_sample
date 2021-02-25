@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSPS-SF01B-3C-PARADA102-streamed-parad_sa_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: PARAD<br>
