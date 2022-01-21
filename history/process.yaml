@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-3C-PARADA102-streamed-parad_sa_sample
 data_stream: CE04OSPS-SF01B-3C-PARADA102-streamed-parad_sa_sample
-end_date: '2022-01-01T02:13:56.649Z'
-last_updated: '2022-01-02T06:06:43.648422'
+end_date: '2022-01-21T02:48:26.136Z'
+last_updated: '2022-01-21T07:24:54.302067Z'
 start_date: '2015-08-03T15:10:11.833Z'
-status: success
+status: pending
