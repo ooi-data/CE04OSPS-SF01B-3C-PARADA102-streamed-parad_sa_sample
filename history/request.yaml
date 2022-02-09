@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE04OSPS-SF01B-3C-PARADA102-streamed-parad_sa_sample
 last_request: '2022-02-07T18:28:01.262114Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-SF01B-3C-PARADA102-streamed-parad_sa_sample/main/history/response.json
-status: pending
+status: success
